@@ -97,7 +97,7 @@ social-links:
     icon-class: fab fa-2x fa-gitlab
 
   - name: whatsapp
-    url-pattern: https://wa.me/__USERNAME__
+    url-pattern: wa.me/__USERNAME__
 
   - name: codepen
     url-pattern: codepen.com/__USERNAME__
