@@ -2,8 +2,8 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'IWCO Вин Чун Всеволожск'
-description: 'Приходите на занятия, записаться можно по ссылкам ниже'
+title: 'Вин Чун'
+description: 'Приходите на занятия по единоборству Вин Чун во Всеволожске, записаться можно по ссылкам ниже'
 
 # Images
 avatar: 'avatar.jpg'
@@ -12,13 +12,13 @@ favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
-facebook: 'myfacebook'
-twitter: 'mytwitter'
+#facebook: 'myfacebook'
+#twitter: 'mytwitter'
 #linkedin: 'mylinkedin'
 instagram: 'myinsta'
 #pinterest: 'mypinterest'
 youtube: 'myyoutube'
-github-user: 'mygithub'
+#github-user: 'mygithub'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -28,15 +28,16 @@ github-user: 'mygithub'
 #reddit: ''
 #rubygems: ''
 #medium:  ''
-tumblr: 'mytumblr'
-weibo: 'myweibo'
-vk: 'myvk'
+#tumblr: 'mytumblr'
+#weibo: 'myweibo'
+vk: 'https://vk.com/vsevwingchun'
 telegram: 'mytelegram'
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
-messenger: 'myfbchat'
+whats_up: 'мой вотсап'
+#blog_url: 'myblog.blog.com'
+#email: 'hello@example.com'
+#messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, telegram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [whats_up, instagram, telegram, youtube, vk]
 
 # Yaml manifest of supported social links
 # Requirements:
