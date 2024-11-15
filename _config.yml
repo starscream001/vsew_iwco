@@ -2,8 +2,8 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'IWCO Вин Чун Всеволожск'
+description: 'Приходите на занятия, записаться можно по ссылкам ниже'
 
 # Images
 avatar: 'avatar.jpg'
@@ -31,6 +31,7 @@ github-user: 'mygithub'
 tumblr: 'mytumblr'
 weibo: 'myweibo'
 vk: 'myvk'
+telegram: 'myvk'
 blog_url: 'myblog.blog.com'
 email: 'hello@example.com'
 messenger: 'myfbchat'
