@@ -15,9 +15,9 @@ favicon: 'favicon.ico'
 #facebook: 'myfacebook'
 #twitter: 'mytwitter'
 #linkedin: 'mylinkedin'
-instagram: 'myinsta'
+instagram: 'wing_chun_vsevolozhsk'
 #pinterest: 'mypinterest'
-youtube: 'myyoutube'
+#youtube: 'myyoutube'
 #github-user: 'mygithub'
 #gitlab-user: ''
 #codepen: ''
@@ -30,14 +30,15 @@ youtube: 'myyoutube'
 #medium:  ''
 #tumblr: 'mytumblr'
 #weibo: 'myweibo'
-vk: 'https://vk.com/vsevwingchun'
-telegram: 'mytelegram'
-whats_up: 'мой вотсап'
+vk: 'vsevwingchun'
+telegram: 'wingchun_vsev_chanel'
+whatsapp: '79657776696'
 #blog_url: 'myblog.blog.com'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
+phone: '+79657776696'
 
-social-links-order: [whats_up, instagram, telegram, youtube, vk]
+social-links-order: [instagram, telegram, vk, whatsapp, phone]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -94,6 +95,9 @@ social-links:
   - name: gitlab-user
     url-pattern: gitlab.com/__USERNAME__
     icon-class: fab fa-2x fa-gitlab
+
+  - name: whatsapp
+    url-pattern: https://wa.me/__USERNAME__
 
   - name: codepen
     url-pattern: codepen.com/__USERNAME__
@@ -156,3 +160,8 @@ social-links:
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
+
+  - name: phone
+    url-scheme: 'tel:'
+    url-pattern: '__USERNAME__'
+    icon-class: far fa-2x fa-phone
