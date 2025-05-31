@@ -159,7 +159,7 @@ social-links:
 
   - name: website
     url-pattern: www.wingchunspb.ru/__USERNAME__
-    icon-class: fa fa-2x fa-space-shuttle
+    icon-class: fa fa-2x fa-chrome
     
   - name: email
     url-scheme: 'mailto:'
