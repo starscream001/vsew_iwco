@@ -36,7 +36,7 @@ whatsapp: '79657776696'
 #blog_url: 'myblog.blog.com'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
-website: 'starscream001'
+website: ''
 phone: '+79657776696'
 
 social-links-order: [instagram, telegram, vk, whatsapp, website, phone]
@@ -158,7 +158,7 @@ social-links:
     icon-class: fas fa-2x fa-blog
 
   - name: website
-    url-pattern: github.com/__USERNAME__
+    url-pattern: www.wingchunspb.ru/__USERNAME__
     icon-class: fa fa-2x fa-space-shuttle
     
   - name: email
