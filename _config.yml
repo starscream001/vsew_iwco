@@ -37,7 +37,7 @@ whatsapp: '79657776696'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
 #website: 'starscream001'
-phone: '+796577766967'
+phone: '+79657776696'
 
 social-links-order: [instagram, telegram, vk, whatsapp, website, phone]
 
@@ -159,7 +159,7 @@ social-links:
 
   - name: website
     url-pattern: github.com/__USERNAME__
-    icon-class: fas fa-2x fa-globe
+    icon-class: fa fa-2x fa-space-shuttle
     
   - name: email
     url-scheme: 'mailto:'
@@ -169,4 +169,4 @@ social-links:
   - name: phone
     url-scheme: 'tel:'
     url-pattern: '__USERNAME__'
-    icon-class: far fa-2x fa-phone-square
+    icon-class: fa fa-2x fa-phone
