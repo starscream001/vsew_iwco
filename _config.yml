@@ -36,9 +36,10 @@ whatsapp: '79657776696'
 #blog_url: 'myblog.blog.com'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
+#website: 'https://github.com/starscream001'
 phone: '+79657776696'
 
-social-links-order: [instagram, telegram, vk, whatsapp, phone]
+social-links-order: [instagram, telegram, vk, whatsapp, website, phone]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -156,6 +157,10 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-blog
 
+  - name: website
+    url-pattern: '__USERNAME__'
+    icon-class: fas fa-2x fa-globe
+    
   - name: email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
@@ -164,4 +169,4 @@ social-links:
   - name: phone
     url-scheme: 'tel:'
     url-pattern: '__USERNAME__'
-    icon-class: far fa-2x fa-phone
+    icon-class: far fa-2x fa-phone-square
